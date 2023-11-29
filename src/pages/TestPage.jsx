@@ -107,6 +107,7 @@ const TestPage = () => {
         <h1>Level 5 score: {level5Score}</h1>
         <h1>Level 6 score: {level6Score}</h1>
         <h1>Level 7 score: {level7Score}</h1>
+        <h1 className='text-xl mt-5 text-blue-500'>Level: {level}</h1>
 
         <h2 className='text-2xl my-10 w-3/4 md:w-1/2 lg:w-1/3 text-center'>
           {question}
