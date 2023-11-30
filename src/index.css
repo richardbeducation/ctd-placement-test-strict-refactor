@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* :root {
-  background-color: #ecf5ff;
-} */
-
 * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
